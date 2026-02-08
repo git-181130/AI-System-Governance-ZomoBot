@@ -116,3 +116,5 @@ It ensures continuity, accountability, and long-term operational resilience.
 ---
 
 [**Governance Documentation**](https://docs.google.com/document/d/1bCoseUXNxgFtvx6ROgLNSSzicd5_F94A/edit?usp=sharing&ouid=106343310566021151369&rtpof=true&sd=true)
+###
+[**AI System Governance Overview**](https://docs.google.com/document/d/1uCGYLIXyQuadcimGEAiytkKoQrrxF9EE/edit?usp=sharing&ouid=106343310566021151369&rtpof=true&sd=true)
